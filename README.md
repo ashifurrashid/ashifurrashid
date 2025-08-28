@@ -16,9 +16,9 @@
 ---
 
 ## 🔹 Skills  
-**Languages**: C++, Java, JavaScript, PHP, MySQL  
-**Frameworks & Tools**: Laravel, React, Git/GitHub, REST APIs, Oracle DB  
-**Development Practices**: OOP, MVC, Agile Development  
+**Languages**: C++, Java, JavaScript, , MySQL  
+**Frameworks & Tools**: Git/GitHub, REST APIs, Oracle DB  
+**Development Practices**: OOP
 **Soft Skills**: Problem-Solving, Teamwork, Communication, Adaptability  
 
 ---
@@ -31,21 +31,10 @@
 ### 📱 Android App Development (Ongoing)  
 - Building with **Java + Android Studio**  
 - Focused on intuitive UI and database integration  
-
-### 🛒 E-commerce Website (Personal Project)  
-- Built with **Laravel & PHP**  
-- Includes product management, authentication, and payment integration  
-
-### ✍️ Online Blogging Platform  
-- Developed using **Laravel + MySQL**  
-- Features article posting, editing, and CMS functionalities  
-
 ---
 
 ## 🔹 Connect with Me  
-📧 Email: **ashifuraiub@gmail.com**  
-🌐 Portfolio: [My E-Portfolio](https://mdashifurrashidfahim.mystrikingly.com/)  
-💼 LinkedIn: *(your LinkedIn link here if you have one)*  
+📧 Email: **asrashid73@gmail.com**  
 
 ---
 ⭐️ *Feel free to check out my repositories and projects!*  
